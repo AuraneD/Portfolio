@@ -1,1 +1,1 @@
-# Portfolio
+# This paper reviews and test the possibility of using an object detection algorithm on a dataset composed of video recording of laparoscopies in order to detect lesions caused by endometriosis. Results showed that even on a small dataset the training was successful yet the speed was an issue. For the moment, these models cannot be used in real time during a surgery but only after to assist the medical team in the treatment with images labeled for endometriosis.
